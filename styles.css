@@ -258,3 +258,15 @@
     margin-bottom:4px;
   }
   .sec-head{margin-bottom:34px;}
+
+.email-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.email-link svg {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
